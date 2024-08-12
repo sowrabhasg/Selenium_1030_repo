@@ -9,6 +9,7 @@ public class sample1Test
 	public void maven1()
 	{
 		Reporter.log("sample test class executed",true);
+		Reporter.log("sample test class executed",true);
 	}
 
 }
